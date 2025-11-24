@@ -1,4 +1,4 @@
-from operator import lshift
+
 from app.models.share import NoteShare, LabelShare
 from sqlmodel import Session, select, delete
 
