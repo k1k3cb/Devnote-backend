@@ -55,7 +55,6 @@ dependencies = [
     { name = "sqlalchemy" },
     { name = "sqlmodel" },
     { name = "uvicorn", extra = ["standard"] },
-    { name = "uvloop" },
     { name = "watchfiles" },
     { name = "websockets" },
 ]
@@ -79,7 +78,6 @@ requires-dist = [
     { name = "sqlalchemy", specifier = ">=2.0.36" },
     { name = "sqlmodel", specifier = ">=0.0.22" },
     { name = "uvicorn", extras = ["standard"], specifier = ">=0.38.0" },
-    { name = "uvloop", specifier = ">=0.19.0" },
     { name = "watchfiles", specifier = ">=0.21.0" },
     { name = "websockets", specifier = ">=12.0" },
 ]

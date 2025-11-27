@@ -23,7 +23,5 @@ dependencies = [
     "python-slugify>=8.0.4",
     "rich>=13.7.0",
     "watchfiles>=0.21.0",
-    "uvloop>=0.19.0",
     "websockets>=12.0",
-
 ]
